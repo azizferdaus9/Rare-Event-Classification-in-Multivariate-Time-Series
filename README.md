@@ -5,6 +5,7 @@ In industrial settings, the ability to predict faults in machinery is crucial fo
 Early Fault Prediction: Develop models to accurately predict faults in industrial machinery, enabling proactive maintenance and reducing operational downtime.
 Feature Selection and Identification: Utilize evolutionary feature selectors and explainable AI techniques to identify and select the most relevant features for fault prediction.
 Model Development and Implementation: Build and implement various ML algorithms to classify and predict faults with high accuracy.
+
 **Methodology**
 1. **Research and Feature Selection:** We explored relevant ML methods and conducted extensive research on evolutionary feature selectors and explainable AI-based feature identifiers. This step was crucial for understanding which features most significantly impact fault occurrence.
 
